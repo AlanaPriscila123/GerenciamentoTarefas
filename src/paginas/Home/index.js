@@ -1,11 +1,16 @@
 import './index.css'
 
+
 function Home() {
     return (
+        <main>
+            <header>
+                <h1>Home</h1>
+            </header>
         <section>
-            <h1>Home</h1>
+         
         </section>
-    
+        </main>
     )
 }
 export default Home;
